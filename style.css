@@ -41,7 +41,6 @@ body{
     color: #525151;
 }
 .card button{
-    background-color: #f37aed;
     height: 30px;
     border: none;
     padding: 4px;
@@ -51,6 +50,16 @@ body{
     font-weight: bold;
     border-radius: 12px;
 }
+.b1{
+    background-color: #f37aed;
+}
+.b2{
+    background-color: #9a50bd;
+}
+.b3{
+    background-color: #50bd7d;
+}
+
 @media (max-width:800px){
     body{
         display: flex;
