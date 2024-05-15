@@ -9,7 +9,7 @@ body{
     height: 100vh;
     font-family: Arial, Helvetica, sans-serif;
     gap: 160px;
-    background-image: url(./pokemonrosa.png);
+    background-image: url(./img/pokemonrosa.png);
     background-size: cover;
 }
 .card{
@@ -59,7 +59,7 @@ body{
         height: 100vh;
         font-family: Arial, Helvetica, sans-serif;
         gap: 160px;
-        background-image: url(./pokemonrosa.png);
+        background-image: url(./img/pokemonrosa.png);
         background-size: cover;
     }
 }
